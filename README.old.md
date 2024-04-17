@@ -1,1 +1,0 @@
-# recyclables_learning
