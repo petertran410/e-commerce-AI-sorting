@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/gdrive/MyDrive/DataSet/Without-YAML/train
+val: /content/gdrive/MyDrive/DataSet/Without-YAML/valid
+test: /content/gdrive/MyDrive/DataSet/Without-YAML/test
 
 nc: 1
 names: ['Battery']
