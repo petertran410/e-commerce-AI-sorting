@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Battery']
+
+roboflow:
+  workspace: tranngocnhan
+  project: trash-classification-k4flw
+  version: 6
+  license: MIT
+  url: https://universe.roboflow.com/tranngocnhan/trash-classification-k4flw/dataset/6
